@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "840078219197",
+    "project_id": "gemni-ai-434506",
+    "storage_bucket": "gemni-ai-434506.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840078219197:android:66db5b256b99e2b684e4d4",
+        "android_client_info": {
+          "package_name": "com.lotwallaim.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840078219197-a12gpdcqs2u19urc8thpatd1lsu6bgo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lotwallaim.app",
+            "certificate_hash": "f465940d05fd78dda6901d746c39f52ea409be0b"
+          }
+        },
+        {
+          "client_id": "840078219197-gvqkaoklgn1f7cje4bis4cl5k1a43cje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lotwallaim.app",
+            "certificate_hash": "a49802eec74f4c882b520ec1fed474b681441153"
+          }
+        },
+        {
+          "client_id": "840078219197-m3utnafrgbtin9ju6u90qcv27069p5n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB512lBk3jNJTG0Uu7_dSmGJJEaLUaakkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840078219197-if427cefnmncmgm69s57psmc429kontj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "840078219197-hogsthch3dhblcudt5r10l0ofhk1c6ng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lotwallaim.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
